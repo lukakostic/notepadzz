@@ -7,3 +7,12 @@ save selected tab index / path.
 
 
 block textbox when no tab present (0 tabs). write "make a new tab with Ctrl+N." as placeholder
+
+
+what happens when multiple windows open? (warn or dont open..)
+
+
+dragging a tab outside window makes it dissapear
+
+horizontal tabs scroll selects them instead of scrolling. AND ITS TOO FAST.
+(need smooth scroll, not selection scroll.)

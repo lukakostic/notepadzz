@@ -1,6 +1,8 @@
 # notepadzz
-Minimalistic notepad++ with keep-unsaved and toggleable features
-Made with Qt5 in C++.
+Minimalistic notes with markdown, keep-unsaved and toggleable UI  
+Made with Qt5 in C++.  
+  
+![showcase](/github_images/showcase.png)
 
 suckless mentallity, keep the config as part of source code and not at runtime.
 
