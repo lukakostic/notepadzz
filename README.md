@@ -2,6 +2,8 @@
 Minimalistic notes with markdown, keep-unsaved and toggleable UI  
 Made with Qt5 in C++. No other dependencies.  
   
+all unsaved changes get autosaved (in app, not to file)  
+  
 ![showcase](/github_images/showcase.png)
 
 ### (toggleable) features:  
