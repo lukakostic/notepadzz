@@ -1,6 +1,6 @@
 # notepadzz
 Minimalistic notes with markdown, keep-unsaved and toggleable UI  
-Made with Qt5 in C++.  
+Made with Qt5 in C++. No other dependencies.  
   
 ![showcase](/github_images/showcase.png)
 
@@ -15,10 +15,10 @@ zoom in/out
 best usecase is when taking notes you hide all the ui,  
 disable window decorations,  
 and then you have just a floating textbox for taking notes:  
-![mostMinimal](/github_images/minimal.png)
+ <img src="/github_images/minimal.png" width="400em">  
   
   
-Ive used with >4k unsaved tabs (daily notes) and it works :D
+Ive used with >4k unsaved tabs (daily notes) and it works :D  
 `config.h` is where you set all shortcuts and save location/method.  
   
 # Shortcuts
@@ -42,6 +42,7 @@ all editable within `config.h`  , as all other things are.
 
 # Prerequisites:  
   
+Qt5.  
 `sudo apt install qtbase5-dev qt5-qmake`  
   
 # Build:  
