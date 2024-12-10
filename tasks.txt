@@ -1,0 +1,31 @@
+Da moze da se vidi file changed cak i kad je selektovan (appending * to name)
+
+Nadji naziv za tabs vs opened files, entities? buffers? id just say buffers.
+
+Mozda neki general file list iz koje se generisu i selektuju tabs and items za tabs i tablist
+
+
+hideable file-menu with options and shortcuts
+recent files / history
+recent folders (kako kad na svaki keystroke dodaje hmmm)
+reloading file contents, reload all?
+close all?
+check all files for changes shortcut?
+handle open-with and thru console openning
+
+
+oznaci nonempty new nekako razlicito od empty new tabs
+
+delete, rename and move files and folders straight from tree?
+
+
+Need to mark file dirty if file gets deleted or changed. Reload dialog.
+Need to fix or automate when tabs get marked dirty, by checking changes from source.
+Make set dirty method and undirty which autosets tab color.
+
+
+Radi na tome i posveti vise vremena dodaj checks da garantuje da su tabsList i tabs isti,
+
+neka sigurnija od QMap varijanta za cuvanje tabs, mozda lista QMap i neki tab id system koji dele tabList i tabs...
+
+

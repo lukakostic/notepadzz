@@ -1,0 +1,17 @@
+# need to have installed  qtbase5-dev qt5-qmake
+
+qmake -project
+
+add
+QT += gui widgets
+to .pro file
+
+
+qmake *.pro
+
+make     #this makes executable
+
+
+
+qmake *.pro
+make && ./notepadzz-test1

@@ -1,0 +1,9 @@
+fresh startup looks horrid: 
+- no initial panel sizing
+- no initial tab is open (bad, can crash) so user needs to ctrl+N
+
+
+save selected tab index / path.
+
+
+block textbox when no tab present (0 tabs). write "make a new tab with Ctrl+N." as placeholder
